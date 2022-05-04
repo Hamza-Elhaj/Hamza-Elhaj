@@ -4,7 +4,7 @@
 
 I have passion about data and learning new tools and machine learning techniques. I am curious 🧐  about what’s new in this field. I would love to hear from you 👐
 
-📫 You can reach me using my email at [hamzeh.hajj92@yahoo.com] 📫
+📫 You can reach me on my email at [hamzeh.hajj92@yahoo.com] 📫
 
 <!---
 Hamza-Elhaj/Hamza-Elhaj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
