@@ -1,5 +1,3 @@
-<!--START_SECTION:waka-->
-
 👋 **Hi there, I’m Hamza-Elhaj**
 
 👨‍🎓 I am data scientist and a current PhD candidate at Anglia Ruskin University.
@@ -20,5 +18,5 @@ You can click the Preview link to take a look at your changes.
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
 
-
+<!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
