@@ -9,7 +9,7 @@ Hamza-Elhaj/Hamza-Elhaj is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-**Talking about Personal Stuff:**
+**Talking about other Personal Stuff:**
 
 * 💁 I'm currently working on something cool!!
 * 👨‍💻 I'm currently learning Natural Language Processing and mastering my Python skills.
