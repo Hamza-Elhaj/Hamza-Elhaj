@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes...
 
 **Talking about other Personal Stuff:**
 
-* 💁 I'm currently working on something cool!!
+* 💁 I'm currently working on something cool!!!
 * 👨‍💻 I'm learning Natural Language Processing and mastering my Python skills...
 * 💬 Ask me anything, I am happy to help.
 * 📫 You can reach me on my email at [hamzeh.hajj92@yahoo.com] 📫
