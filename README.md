@@ -1,6 +1,6 @@
 👋 **Hi there, I’m Hamza Elhaj**
 
-👨‍🎓 I am a data scientist and a current PhD candidate at Anglia Ruskin University..
+👨‍🎓 I am a data scientist and a current PhD candidate at Anglia Ruskin University.
 
 I have a passion about dealing with data and learning new tools. I love to explore more about machine learning techniques. I'm curious 🧐  about what’s new in this field. I would love to hear from you 👐.
 
