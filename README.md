@@ -2,7 +2,7 @@
 
 👨‍🎓 I am a data scientist and a current PhD candidate at Anglia Ruskin University.
 
-I have a passion about dealing with data and learning new tools. I love to explore more about machine learning techniques. I'm curious 🧐  about what’s new in this field. I would love to hear from you 👐..
+I have a passion about dealing with data and learning new tools. I love to explore more about machine learning techniques. I'm curious 🧐  about what’s new in this field. I would love to hear from you 👐.
 
 <!---
 Hamza-Elhaj/Hamza-Elhaj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
