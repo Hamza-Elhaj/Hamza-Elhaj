@@ -1,5 +1,7 @@
 👋 **Hi there, 
 
+-------------
+
 I’m Hamza Elhaj**
 
 👨‍🎓 I am a data scientist and a current PhD candidate at Anglia Ruskin University.
