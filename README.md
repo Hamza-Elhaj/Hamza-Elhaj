@@ -33,3 +33,5 @@ You can click the Preview link to take a look at your changes.
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+
+![alt text](file:///Users/hamzaelhaj/Desktop/github-contribution-grid-snake.svg "Logo Title Text 1")
