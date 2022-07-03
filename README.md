@@ -6,10 +6,9 @@
 
 🤖 I have a passion when dealing with data and I love learn new things. I love to explore more techniques in machine learning and data science. It is all what I talk about these days. 🧐 I'm curious about what’s new in this field. I would love to hear from you 👐.
 
-I love reading books on personal development. My favorite ones are **Who Moved My Cheese?** by _Spencer Johnson_ and **It’s Ok Not To Be Ok** by _Claire Chamberlain_.
+📗 I love reading books on **personal development** and **leadership**. My favorite ones are **Who Moved My Cheese?** by _Spencer Johnson_ and **It’s Ok Not To Be Ok** by _Claire Chamberlain_.
 
 Outside the world of tech, I love speding my free time with family 👨‍👩‍👦‍👦 watching and playing soccer ⚽ practicing chess ♟️ and workout 💪.
-
 
 <!---
 Hamza-Elhaj/Hamza-Elhaj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
