@@ -6,7 +6,7 @@
 
 🤖 I have a passion when dealing with data and I love learn new things. I love to explore more techniques in machine learning and data science. It is all what I talk about these days. 🧐 I'm curious about what’s new in this field. I would love to hear from you 👐.
 
-I love reading books on personal development. My favorite ones are **Who moved my cheese?** by _Spencer Johnson_ and **It’s ok not to be ok** by _Claire Chamberlain_.
+I love reading books on personal development. My favorite ones are **Who Moved My Cheese?** by _Spencer Johnson_ and **It’s Ok Not To Be Ok** by _Claire Chamberlain_.
 
 Outside the world of tech, I love speding my free time with family 👨‍👩‍👦‍👦 watching and playing soccer ⚽ practicing chess ♟️ and workout 💪.
 
