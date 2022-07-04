@@ -41,6 +41,7 @@ You can click the Preview link to take a look at your changes.
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
+![alt text]([https://cdn.dribbble.com/users/1162077/screenshots/5403918/media/d5dccb5d5818cba2c8fa0cb15fb578b3.gif](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg) "Logo Title Text 1")
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
