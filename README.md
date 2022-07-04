@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-## About Me 🚀 
+## 🚀 About Me 
 
 👨‍🎓 I am **Hamza Elhaj**, a **Data Scientist** (specializing in Machine Learning) and currently pursuing my PhD in **Data Science** and **Machine Learning** at **Anglia Ruskin University**.
 
@@ -21,11 +21,11 @@ You can click the Preview link to take a look at your changes.
 
 * **Jul 2019** I have completed my Master Degree in Engineering Management from Anglia Ruskin University with distinction rank.
 
-## Recent Academic Publications
+## 📄 Recent Academic Publications
 
 * N. Achour, **H. Elhaj**, A. Ali, Hospital resilience to extreme events: A staff capability of attendance perspective, Int. J. Disaster Risk Reduction. 72 (2022) 102851. https://doi.org/10.1016/j.ijdrr.2022.102851.
 
-## Talking about other Personal Stuff
+## 🗣️ Talking about other Personal Stuff
 
 * 💁 I'm currently working on healthcare machine learning-related project.
 * 👨‍💻 I'm mastering my Python skills and learning more tools and techniques like R.
@@ -37,7 +37,7 @@ You can click the Preview link to take a look at your changes.
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hamza-Elhaj&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
-**Glad to see you here** 🖐 😍😊
+😍 **Glad to see you here** 🖐 😊
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
