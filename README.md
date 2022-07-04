@@ -15,10 +15,16 @@ Hamza-Elhaj/Hamza-Elhaj is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
+## 🏅 Achievements 
+
+* **Jun 2022** I have earned a professional certification in data science provided by IBM and delivered through Coursera e-learning platform.
+
+* **Jul 2019** I have completed my Master Degree in Engineering Management from Anglia Ruskin University with distinction rank.
+
 ## Talking about other Personal Stuff
 
 * 💁 I'm currently working on something cool!!
-* 👨‍💻 I'm learning Natural Language Processing and mastering my Python skills.
+* 👨‍💻 I'm mastering my Python skills and learning more tools and techniques.
 * 💬 Ask me anything, I am happy to help.
 * 📫 You can reach me on my email at [hamzeh.hajj92@yahoo.com] 📫
 
