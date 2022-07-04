@@ -23,8 +23,8 @@ You can click the Preview link to take a look at your changes.
 
 ## Talking about other Personal Stuff
 
-* 💁 I'm currently working on something cool!!
-* 👨‍💻 I'm mastering my Python skills and learning more tools and techniques.
+* 💁 I'm currently working on healthcare machine learning-related project.
+* 👨‍💻 I'm mastering my Python skills and learning more tools and techniques like R.
 * 💬 Ask me anything, I am happy to help.
 * 📫 You can reach me on my email at [hamzeh.hajj92@yahoo.com] 📫
 
