@@ -21,9 +21,9 @@ You can click the Preview link to take a look at your changes.
 
 * **Jul 2019** I have completed my Master Degree in Engineering Management from Anglia Ruskin University with distinction rank.
 
-# Recent Academic Publications
+## Recent Academic Publications
 
-* N. Achour, H. Elhaj, A. Ali, Hospital resilience to extreme events: A staff capability of attendance perspective, Int. J. Disaster Risk Reduction. 72 (2022) 102851. https://doi.org/10.1016/j.ijdrr.2022.102851.![image](https://user-images.githubusercontent.com/62765996/177202214-928c63b1-14b6-4092-ac43-d247e4a188ad.png)
+* N. Achour, **H. Elhaj**, A. Ali, Hospital resilience to extreme events: A staff capability of attendance perspective, Int. J. Disaster Risk Reduction. 72 (2022) 102851. https://doi.org/10.1016/j.ijdrr.2022.102851.
 
 ## Talking about other Personal Stuff
 
