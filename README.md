@@ -34,7 +34,7 @@ You can click the Preview link to take a look at your changes.
 * 📫 You can reach me on my email at [hamzeh.hajj92@yahoo.com] 📫
 
 <p align="center">
-  <img width="460" height="300" src="[http://www.fillmurray.com/460/300](https://cdn.dribbble.com/users/1162077/screenshots/5403918/media/d5dccb5d5818cba2c8fa0cb15fb578b3.gif)">
+  <img width="460" height="300" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/media/d5dccb5d5818cba2c8fa0cb15fb578b3.gif">
 </p>
 
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/media/d5dccb5d5818cba2c8fa0cb15fb578b3.gif" width="700" height="500">
