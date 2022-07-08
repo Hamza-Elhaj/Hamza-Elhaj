@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-## 🚀 About Me.
+## 🚀 About Me
 
 👨‍🎓 I am **Hamza Elhaj**, a **Data Scientist** (specializing in Machine Learning) and currently pursuing my PhD in **Data Science** and **Machine Learning** at **Anglia Ruskin University**.
 
@@ -15,13 +15,13 @@ Hamza-Elhaj/Hamza-Elhaj is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-## 🏅 Achievements.
+## 🏅 Achievements
 
 * **Jun 2022** I have earned a professional certification in data science provided by IBM and delivered through Coursera e-learning platform.
 
 * **Jul 2019** I have completed my Master Degree in Engineering Management from Anglia Ruskin University with distinction rank.
 
-## 📄 Recent Academic Publications.
+## 📄 Recent Academic Publications
 
 * N. Achour, **H. Elhaj**, A. Ali, Hospital resilience to extreme events: A staff capability of attendance perspective, Int. J. Disaster Risk Reduction. 72 (2022) 102851. https://doi.org/10.1016/j.ijdrr.2022.102851.
 
