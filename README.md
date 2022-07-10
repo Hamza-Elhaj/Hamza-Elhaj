@@ -31,7 +31,7 @@ You can click the Preview link to take a look at your changes.
 * 👨‍💻 I'm mastering my Python skills and learning more tools and techniques like R.
 * 🤝 I’m willing to collaborate on research projects and new ideas.
 * 💬 Ask me anything, I am happy to help.
-* 📫 You can reach me on my email at [hamzeh.hajj92@yahoo.com]. 📫
+* 📫 You can reach me on my email at [hamzeh.hajj92@yahoo.com] 📫
 
 <p align="center">
   <img width="700" height="500" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/media/d5dccb5d5818cba2c8fa0cb15fb578b3.gif">
