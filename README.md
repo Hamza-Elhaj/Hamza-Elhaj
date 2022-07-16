@@ -19,7 +19,7 @@ You can click the Preview link to take a look at your changes.
 
 * **Jun 2022** I have earned a professional certification in data science provided by IBM and delivered through Coursera e-learning platform.
 
-* **Jul 2019** I have completed my Master Degree in Engineering Management from Anglia Ruskin University with distinction rank.
+* **Jul 2019** I have completed my Master Degree in Engineering Management from Anglia Ruskin University with distinction rank..
 
 ## 📄 Recent Academic Publications
 
