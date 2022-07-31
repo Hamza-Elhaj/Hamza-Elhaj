@@ -25,7 +25,7 @@ You can click the Preview link to take a look at your changes.
 
 * N. Achour, **H. Elhaj**, A. Ali, Hospital resilience to extreme events: A staff capability of attendance perspective, Int. J. Disaster Risk Reduction. 72 (2022) 102851. https://doi.org/10.1016/j.ijdrr.2022.102851.
 
-## 🗣️ Talking about other Personal Stuff
+## 🗣️ Talking About Other Personal Stuff
 
 * 💁 I'm currently working on healthcare machine learning-related project.
 * 👨‍💻 I'm mastering my Python skills and learning more tools and techniques like R.
