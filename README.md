@@ -1,4 +1,4 @@
-# Hi there! 👋 I am **Hamza Elhaj**
+# Hi there! 👋 I'm **Hamza Elhaj**
 
 ## 🚀 About Me
 
