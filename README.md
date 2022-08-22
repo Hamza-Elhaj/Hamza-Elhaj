@@ -1,8 +1,8 @@
-# Hi there! 👋 I'm **Hamza Elhaj**! Welcome to my Profile 👐
+# Hi there! 👋 Welcome to my Profile 👐
 
 ## 🚀 About Me
 
-👨‍🎓 A Passionate **Data Scientist** (specializing in Machine Learning). I am currently pursuing my PhD in **Data Science** and **Machine Learning** at **Anglia Ruskin University**.
+👨‍🎓 I'm **Hamza Elhaj** A Passionate **Data Scientist** (specializing in Machine Learning). I am currently pursuing my PhD in **Data Science** and **Machine Learning** at **Anglia Ruskin University**.
 
 🤖 I am passionate about dealing with data and love learning new topics in **data science**. I love to explore more techniques in **machine learning** and **data science**. It is all I talk about these days. 🧐 I'm curious about what's new in this field. I would love to hear from you 👐.
 
