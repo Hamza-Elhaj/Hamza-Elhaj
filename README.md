@@ -43,24 +43,6 @@ You can click the Preview link to take a look at your changes.
 <a href="https://kaggle.com/hamzaelhaj92" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="hamzaelhaj92" height="30" width="40" /></a>
 </p>
 
-<p align="center">
-  <img width="700" height="500" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/media/d5dccb5d5818cba2c8fa0cb15fb578b3.gif">
-</p>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hamza-Elhaj&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-
-😍 **Glad to see you here** 🖐 😊
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
-
-![alt text](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg "Logo Title Text 2")
-
-
-
-
-
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamza-elhaj&label=Profile%20views&color=0e75b6&style=flat" alt="hamza-elhaj" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hamza-elhaj" alt="hamza-elhaj" /></a> </p>
@@ -74,3 +56,12 @@ You can click the Preview link to take a look at your changes.
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hamza-elhaj&" alt="hamza-elhaj" /></p>
 
+<p align="center">
+  <img width="700" height="500" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/media/d5dccb5d5818cba2c8fa0cb15fb578b3.gif">
+</p>
+
+😍 **Glad to see you here** 🖐 😊
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+
+![alt text](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg "Logo Title Text 2")
