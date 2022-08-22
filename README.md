@@ -44,10 +44,3 @@ You can click the Preview link to take a look at your changes.
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
 ![alt text](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg "Logo Title Text 2")
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-
-
-
