@@ -44,8 +44,6 @@ You can click the Preview link to take a look at your changes.
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamza-elhaj&label=Profile%20views&color=0e75b6&style=flat" alt="hamza-elhaj" /> </p>
 
-![alt text](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg "Logo Title Text 2")
-
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
@@ -70,3 +68,4 @@ You can click the Preview link to take a look at your changes.
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hamza-elhaj&" alt="hamza-elhaj" /></p>
 
+![alt text](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg "Logo Title Text 2")
