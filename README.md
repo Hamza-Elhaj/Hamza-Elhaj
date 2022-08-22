@@ -46,7 +46,7 @@ You can click the Preview link to take a look at your changes.
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hamza-elhaj" alt="hamza-elhaj" /></a> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hamza-elhaj&show_icons=true&locale=en&layout=compact" alt="hamza-elhaj" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hamza-elhaj&show_icons=true&locale=en&layout=compact" alt="hamza-elhaj" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hamza-elhaj&show_icons=true&locale=en" alt="hamza-elhaj" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hamza-elhaj&" alt="hamza-elhaj" /></p>
 
