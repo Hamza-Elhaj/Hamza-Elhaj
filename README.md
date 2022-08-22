@@ -1,7 +1,7 @@
 # Hi there! 👋
 
 <h1 align="center">Hi 👋, I'm Hamza Elhaj</h1>
-<h3 align="center">A passionate Data Scientist</h3>
+<h3 align="center">A Passionate Data Scientist</h3>
 
 ## 🚀 About Me
 
