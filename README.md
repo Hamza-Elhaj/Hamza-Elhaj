@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-👨‍🎓 , a **Data Scientist** (specializing in Machine Learning) and currently pursuing my PhD in **Data Science** and **Machine Learning** at **Anglia Ruskin University**.
+👨‍🎓 A Passionate **Data Scientist** (specializing in Machine Learning) and currently pursuing my PhD in **Data Science** and **Machine Learning** at **Anglia Ruskin University**.
 
 🤖 I am passionate about dealing with data and love learning new topics in **data science**. I love to explore more techniques in **machine learning** and **data science**. It is all I talk about these days. 🧐 I'm curious about what's new in this field. I would love to hear from you 👐.
 
@@ -47,9 +47,6 @@ You can click the Preview link to take a look at your changes.
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-
-<h1 align="center">Hi 👋, I'm Hamza Elhaj</h1>
-<h3 align="center">A Passionate Data Scientist</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamza-elhaj&label=Profile%20views&color=0e75b6&style=flat" alt="hamza-elhaj" /> </p>
 
