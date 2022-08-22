@@ -25,27 +25,6 @@ You can click the Preview link to take a look at your changes.
 
 * N. Achour, **H. Elhaj**, A. Ali, Hospital resilience to extreme events: A staff capability of attendance perspective, Int. J. Disaster Risk Reduction. 72 (2022) 102851. https://doi.org/10.1016/j.ijdrr.2022.102851.
 
-## 🗣️ Talking About Other Personal Stuff
-
-* 💁 I'm currently working on healthcare machine learning-related project.
-* 👨‍💻 I'm mastering my Python skills and learning more tools and techniques like R.
-* 🤝 I’m willing to collaborate on research projects and new ideas.
-* 💬 Ask me anything, I am happy to help.
-* 📫 You can reach me on my email at [hamzeh.hajj92@yahoo.com] 📫.
-
-<p align="center">
-  <img width="700" height="500" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/media/d5dccb5d5818cba2c8fa0cb15fb578b3.gif">
-</p>
-
-😍 **Glad to see you here** 🖐 😊
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hamza-elhaj&label=Profile%20views&color=0e75b6&style=flat" alt="hamza-elhaj" /> </p>
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hamza-elhaj" alt="hamza-elhaj" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/hamza_elhaj" target="blank"><img src="https://img.shields.io/twitter/follow/hamza_elhaj?logo=twitter&style=for-the-badge" alt="hamza_elhaj" /></a> </p>
@@ -65,5 +44,25 @@ You can click the Preview link to take a look at your changes.
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hamza-elhaj&show_icons=true&locale=en" alt="hamza-elhaj" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hamza-elhaj&" alt="hamza-elhaj" /></p>
+
+## 🗣️ Talking About Other Personal Stuff
+
+* 💁 I'm currently working on healthcare machine learning-related project.
+* 👨‍💻 I'm mastering my Python skills and learning more tools and techniques like R.
+* 🤝 I’m willing to collaborate on research projects and new ideas.
+* 💬 Ask me anything, I am happy to help.
+* 📫 You can reach me on my email at [hamzeh.hajj92@yahoo.com] 📫.
+
+<p align="center">
+  <img width="700" height="500" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/media/d5dccb5d5818cba2c8fa0cb15fb578b3.gif">
+</p>
+
+😍 **Glad to see you here** 🖐 😊
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hamza-elhaj&label=Profile%20views&color=0e75b6&style=flat" alt="hamza-elhaj" /> </p>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ![alt text](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg "Logo Title Text 2")
