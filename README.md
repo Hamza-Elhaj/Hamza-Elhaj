@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-👨‍🎓 I am **Hamza Elhaj**, a **Data Scientist** (specializing in Machine Learning) and currently pursuing my PhD in **Data Science** and **Machine Learning** at **Anglia Ruskin University**...
+👨‍🎓 I am **Hamza Elhaj**, a **Data Scientist** (specializing in Machine Learning) and currently pursuing my PhD in **Data Science** and **Machine Learning** at **Anglia Ruskin University**.
 
 🤖 I am passionate about dealing with data and love learning new topics in **data science**. I love to explore more techniques in **machine learning** and **data science**. It is all I talk about these days. 🧐 I'm curious about what's new in this field. I would love to hear from you 👐.
 
