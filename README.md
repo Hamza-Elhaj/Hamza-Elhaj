@@ -35,7 +35,7 @@ You can click the Preview link to take a look at your changes.
 * 👨‍💻 I'm mastering my Python skills and learning more tools and techniques like R.
 * 🤝 I’m willing to collaborate on research projects and new ideas.
 * 💬 Ask me anything. I am happy to help.
-* 📫 You can reach me on my email at [hamzeh.hajj92@yahoo.com] 📫.
+* 📫 You can reach me by email at [hamzeh.hajj92@yahoo.com] 📫.
 * <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/hamza_elhaj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hamza_elhaj" height="30" width="40" /></a>
