@@ -29,7 +29,7 @@ You can click the Preview link to take a look at your changes.
 
 * **Elhaj, H.**, Achour, N., Tania, M.H. and Aciksari, K., 2023. A comparative study of supervised machine learning approaches to predict patient triage outcomes in hospital emergency departments. Array, [online] 17, p.100281. https://doi.org/10.1016/j.array.2023.100281.![image](https://github.com/user-attachments/assets/10c2f1bb-e891-4aae-83bf-e7be782d3ce3)
 
-Achour, N., **Elhaj, H.** and Ali, A., 2022. Hospital resilience to extreme events: A staff capability of attendance perspective. International Journal of Disaster Risk Reduction, [online] 72, p.102851. https://doi.org/10.1016/j.ijdrr.2022.102851.![image](https://github.com/user-attachments/assets/f2bb589e-5a3c-4b19-9434-6ae5c9d7c2b9)
+* Achour, N., **Elhaj, H.** and Ali, A., 2022. Hospital resilience to extreme events: A staff capability of attendance perspective. International Journal of Disaster Risk Reduction, [online] 72, p.102851. https://doi.org/10.1016/j.ijdrr.2022.102851.![image](https://github.com/user-attachments/assets/f2bb589e-5a3c-4b19-9434-6ae5c9d7c2b9)
 
 
 ## 🗣️ Talking About Other Personal Stuff
