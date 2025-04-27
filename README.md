@@ -2,13 +2,9 @@
 
 ## 🚀 About Me
 
-👨‍🎓 I am **Hamza Elhaj**, a **Data Scientist** (specializing in Machine Learning) and currently pursuing my PhD in **Data Science** and **Machine Learning** at **Anglia Ruskin University**..
+👨‍🎓 I am **Hamza Elhaj**, a **Manager, Data Analyst** (specializing in Tolling Industry) and currently pursuing my PhD in **Data Science** and **Machine Learning** at **Anglia Ruskin University**.
 
-🤖 I am passionate about dealing with data and love learning new topics in **data science**. I love to explore more techniques in **machine learning** and **data science**. It is all I talk about these days. 🧐 I'm curious about what's new in this field. I would love to hear from you 👐.
-
-📗 I love reading books on **personal development** and **leadership**. My favourites are **Who Moved My Cheese?** by _Spencer Johnson_, and **It’s OK Not To Be OK** by _Claire Chamberlain_.
-
-Outside the world of tech, I love spending my free time with family 👨‍👩‍👦‍👦 watching and playing soccer ⚽ practising chess ♟️ and workout 💪.
+🤖 I am passionate about dealing with data and love learning new topics in **data science**. I love to explore more data analysis techniques, and anything related to **machine learning**. It is all I talk about. 🧐 I'm curious about what's new in this field. I would love to hear from you 👐.
 
 <!---
 Hamza-Elhaj/Hamza-Elhaj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,18 +17,24 @@ You can click the Preview link to take a look at your changes.
 
 ## 🏅 Achievements
 
+* **Jan 2025** I have earned the Certified Associate in Project Management (CAPM).
+
 * **Jun 2022** I have earned a professional certification in data science provided by IBM and delivered through Coursera e-learning platform.
 
 * **Jul 2019** I have completed my Master's Degree in Engineering Management from Anglia Ruskin University with distinction rank.
 
 ## 📄 Recent Academic Publications
 
-* N. Achour, **H. Elhaj**, A. Ali, Hospital resilience to extreme events: A staff capability of attendance perspective, Int. J. Disaster Risk Reduction. 72 (2022) 102851. https://doi.org/10.1016/j.ijdrr.2022.102851.
+* Pascale, F., Achour, N., Chaplin, E., Osei, G. and **Elhaj, H.**, 2024. Enhancing the resilience of cancer services in terms of hospital built environment reconfiguration in case of pandemics. International Journal of Disaster Risk Reduction, [online] p.105140. https://doi.org/10.1016/j.ijdrr.2024.105140.![image](https://github.com/user-attachments/assets/430361d2-e0bb-43d6-a940-c22bd3e1c372)
+
+* **Elhaj, H.**, Achour, N., Tania, M.H. and Aciksari, K., 2023. A comparative study of supervised machine learning approaches to predict patient triage outcomes in hospital emergency departments. Array, [online] 17, p.100281. https://doi.org/10.1016/j.array.2023.100281.![image](https://github.com/user-attachments/assets/10c2f1bb-e891-4aae-83bf-e7be782d3ce3)
+
+Achour, N., **Elhaj, H.** and Ali, A., 2022. Hospital resilience to extreme events: A staff capability of attendance perspective. International Journal of Disaster Risk Reduction, [online] 72, p.102851. https://doi.org/10.1016/j.ijdrr.2022.102851.![image](https://github.com/user-attachments/assets/f2bb589e-5a3c-4b19-9434-6ae5c9d7c2b9)
+
 
 ## 🗣️ Talking About Other Personal Stuff
 
 * 💁 I'm currently working on a healthcare machine learning-related project.
-* 👨‍💻 I'm mastering my Python skills and learning more tools and techniques like R.
 * 🤝 I’m willing to collaborate on research projects and new ideas.
 * 💬 Ask me anything. I am happy to help.
 * 📫 You can reach me by email at [hamzeh.hajj92@yahoo.com] 📫.
