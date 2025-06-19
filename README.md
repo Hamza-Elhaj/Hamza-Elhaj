@@ -4,7 +4,7 @@
 
 👨‍🎓 I am **Hamza Elhaj**, a **Data Analyst Team Lead** (specializing in Tolling Industry) and currently pursuing my PhD in **Data Science** and **Machine Learning** at **Anglia Ruskin University**..
 
-🤖 I am passionate about dealing with data and love learning new topics in **data science**. I love to explore more data analysis techniques, and anything related to **machine learning**. It is all I talk about. 🧐 I'm curious about what's new in this field. I would love to hear from you 👐..
+🤖 I am passionate about dealing with data and love learning new topics in **data science**. I love to explore more data analysis techniques, and anything related to **machine learning**. It is all I talk about. 🧐 I'm curious about what's new in this field. I would love to hear from you 👐.
 
 <!---
 Hamza-Elhaj/Hamza-Elhaj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
